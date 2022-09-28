@@ -5,10 +5,11 @@
 <p align="left"> <a target="_blank" rel="noopener noreferrer" href="https://komarev.com/ghpvc/?username=JustLearningMX&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"><img src="https://komarev.com/ghpvc/?username=JustLearningMX&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="JustLearningMX" data-canonical-src="https://komarev.com/ghpvc/?username=JustLearningMX&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width:100%;"></a> </p>
 <hr>
 
-- 😄 <b>I’m currently in online University ...</b> Studying Software Engineering at <a href="https://www.unadmexico.mx/licenciaturatsu/ofertaeducativa/division-de-ciencias-exactas-ingenieria-y-tecnologia/desarrollo-de-software">UNADM</a> (last year)
-- 🔭 <b>I’m currently working on ...</b> Small Projects from University
-- 🌱 <b>I’m currently learning ...</b> C#, Dart/Flutter, Java, HTML, CSS and JavaScript
-- 💬 <b>I’m currently in the course ...</b> Full Stack Web Development by <a href="https://bedu.org/cursos/fullstack-javascript/">BEDU</a>
+- 😄 <b>I’m currently in online University ...</b> Studying Software Engineering at <a href="https://www.unadmexico.mx/licenciaturatsu/ofertaeducativa/division-de-ciencias-exactas-ingenieria-y-tecnologia/desarrollo-de-software">UNADM</a> (last semester)
+- 🔭 <b>I’m currently working on ...</b> Technical Projects from University and personnal.
+- 🌱 <b>I’m currently learning ...</b> HTML, CSS and JavaScript, MERN stack (MongoDB, ExpressJs, React and NodeJs), C#, Java.
+- 💻 <b>I’m currently in the course ...</b> ONE Program / Alura - FullStack with Java by <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle</a>
+- 💻 <b>I made the bootcamp ...</b> Full Stack Web Development by <a href="https://bedu.org/cursos/fullstack-javascript/">BEDU</a>
 - ⚡ <b>Fun fact: ...</b> I 💖 sci-fi, reading, movies, and play guitar, but the best part is spend the time with my family
 
 <hr>
